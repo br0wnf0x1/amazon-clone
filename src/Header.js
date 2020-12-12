@@ -18,9 +18,8 @@ function Header() {
   return (
     <div className="header">
       <Link to="/">
-        {/* http://pngimg.com/uploads/amazon/amazon_PNG11.png */}
         <img
-          src="https://bn1302files.storage.live.com/y4pkfMUQa4_C7-mbN-dgLXk12086FBekeNzrkOJOzDXKuQTq01jiafag9DXMIPJaKovT_gMzP_cKwTOU2X-cxJ494xMY4NV4NoNYRC0MlDiuMaJDH39gNdMVSpyZ6OhM_BYZAvMCxwBC_MhHj7fNSEVUfCuGZ8CNeU351DbVQxTS8iRp0gtmu4HjVknTgiF8uxrcXFECc2smdp97PWJnaIxeApi0X0b9w3TCAnIfi2vdoA/KALAKALAN.png?psid=1&width=763&height=308"
+          src="http://pngimg.com/uploads/amazon/amazon_PNG11.png"
           alt=""
           className="header__logo"
         />
